@@ -1,9 +1,9 @@
-GitHub Pages sivuni, jossa Jekyll teema
+GitHub Pages sivuni, jossa Jekyll Cayman -teema
 ## Tervetuloa GitHub Pages-sivustolleni!
 Täältä löydät tehtäväpalautukset
-- [Viikko 1](viikko1.html)
-- [Viikko 2](viikko2.md)
-- Viikko 3
+- [Viikko 1](./viikko1/index.html)
+- [Viikko 2](./viikko2/viikko2.md)
+- [Viikko 3](./viikko3/viikko3.html)
 - Viikko 4
 - Viikko 5
 - Viikko 6
